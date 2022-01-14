@@ -38,6 +38,11 @@ Here is a section dedicated to all the programming languages and frameworks that
 
 <img align="left" alt="css3" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
+<img align="left" alt="ruby" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+
+
+[comment]: <> (https://devicon.dev/)
+
 <br/>
 <br/>
 <br/>
@@ -52,6 +57,8 @@ Here is a section dedicated to all the programming languages and frameworks that
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="60px"/>
 
 <img align="left" alt="flask" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
+<img align="left" alt="rails" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 
 <img align="left" alt="mongodb" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
