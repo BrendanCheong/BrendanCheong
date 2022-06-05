@@ -79,12 +79,3 @@ Here are some non-programming technical skills that I have picked up as well.
 <img align="left" alt="figma" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" align="left" alt="canva" width="60px"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-### RPA
-
-<img src="https://projectfor2.com.br/wp-content/uploads/2020/05/uipath.jpg" alt="UiPath" width="60" height="60">
