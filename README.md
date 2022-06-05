@@ -1,6 +1,6 @@
 # Hi I'm Brendan! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanCheong&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanCheong&layout=compact&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanCheong&show_icons=true&theme=aura)
 ## Reach Out To Me!
