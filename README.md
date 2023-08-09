@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=BrendanCheong.BrendanCheong) 
 
 I am a year 3 Student at the [National University of Singapore](https://fass.nus.edu.sg/ecs/) who picked up programming and software engineering in the midst of my Economics Degree. I love making user-friendly applications and learning new stuff!
-* 💻 Soon to be Software Engineering Intern
+* 💻 Full-stack Software Engineering Intern at Hypotenuse AI
 * 🔓 Looking to contribute to open-source!
 * 🌱 I’m currently learning FastAPI!
 
