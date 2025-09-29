@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=BrendanCheong.BrendanCheong) 
 
 I am a final year Student at the [National University of Singapore](https://fass.nus.edu.sg/ecs/) who picked up programming and software engineering in the midst of my Economics Degree. I love making user-friendly applications and learning new stuff!
-* 💻 Software Engineering at GovTech
+* 💻 Software Engineer at GovTech
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanCheong&layout=compact&theme=nightowl&count_private=true&langs_count=10&hide=jupyter%20notebook,Tex,Vim%20script,ActionScript,DockerFile,HTML,CSS,VBScript,Shell)](https://github.com/anuraghazra/github-readme-stats)   ![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanCheong&layout=compact&show_icons=true&theme=aura)
 
