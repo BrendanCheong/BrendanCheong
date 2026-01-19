@@ -3,8 +3,7 @@
 [![Github](https://img.shields.io/github/followers/BrendanCheong?label=Follow&style=social)](https://github.com/BrendanCheong)
 ![](https://visitor-badge.laobi.icu/badge?page_id=BrendanCheong.BrendanCheong) 
 
-I am a final year Student at the [National University of Singapore](https://fass.nus.edu.sg/ecs/) who picked up programming and software engineering in the midst of my Economics Degree. I love making user-friendly applications and learning new stuff!
-* 💻 Software Engineer at GovTech
+I am a Software Engineer at the [GovTech Singapore](https://www.tech.gov.sg/) who picked up programming and software engineering in the midst of my Economics Degree. I love making user-friendly applications and learning new stuff!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanCheong&layout=compact&theme=nightowl&count_private=true&langs_count=10&hide=jupyter%20notebook,Tex,Vim%20script,ActionScript,DockerFile,HTML,CSS,VBScript,Shell)](https://github.com/anuraghazra/github-readme-stats)   ![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanCheong&layout=compact&show_icons=true&theme=aura)
 
